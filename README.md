@@ -3,7 +3,7 @@
 
 Purple PDK is a redesign of the [Original FreePDK](https://free-pdk.github.io/) and FreePDK_lite programmers. It was a challange to myself and practice PCB design. It was tested with the Padauk PFS-154. Should work with the all other MCU's that are supported by the original FreePDK programmer.
 
-The board is a 4 layer board with the two inner layers being solid ground planes. The size of the PCB is such that it can be
+The board is a 4 layer board with the two inner layers being solid ground planes. The size of the PCB is small enough that it can be
 ordered unassambled from JLCPCB for $2 (at the time of this writing. With purple solder mask and order number removed it's around $8 for 5 boards).
 
 Oscillator was updated to a Ceramic SMD type. The mircoUSB port was changed to Type-C.
