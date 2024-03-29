@@ -7,7 +7,7 @@ The board is a 4 layer board with the two inner layers being solid ground planes
 
 Changes to the easy-pdk-programmer-lite schematic were made to use a SMD type oscillator. The mircoUSB port was changed to Type-C. Also added was a ESD protection IC which may or may not be needed.
 
-Capacitors, resistors, and LEDs are mostly 0603, plus a few 0805 caps. The pads for 0603 components are slightly extended for hand soldering. But this is definitly not a beginner soldering project.
+Capacitors, resistors, and LEDs are mostly 0603, plus a few 0805 caps. The pads for 0603 components are slightly extended for hand soldering. But this is definitly not a beginner friendly soldering project.
 
 Dimensions: 52x26mm
 
