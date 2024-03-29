@@ -1,7 +1,7 @@
 ![PCB_Render](https://github.com/cross-bound/PurplePDK/assets/115736283/6c0b6959-8fb7-4a4b-b1e7-4137d9d2bf70)
 
 
-Purple PDK is a redesign of the [Original FreePDK](https://free-pdk.github.io/) and [easy-pdk-programmer-lite](https://github.com/free-pdk/easy-pdk-programmer-lite-hardware) programmers. It was a challange to myself and practice PCB design. It was tested with the Padauk PFS-154. Should work with the all other MCU's that are supported by the original FreePDK programmer.
+Purple PDK is a redesign of the [Original FreePDK](https://free-pdk.github.io/) and [easy-pdk-programmer-lite](https://github.com/free-pdk/easy-pdk-programmer-lite-hardware) programmers. It was to challange to myself and practice PCB design. It was tested with the Padauk PFS-154. Should work with the all other MCU's that are supported by the original FreePDK programmer.
 
 The board is a 4 layer board with the two inner layers being solid ground planes. The size of the PCB is small enough that it can be ordered unassambled from JLCPCB for $2 (at the time of this writing. With purple solder mask and order number removed it's around $8 for 5 boards).
 
