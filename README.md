@@ -9,4 +9,6 @@ Chances to the easy-pdk-programmer-lite schematic were made to use a SMD type os
 
 Capacitors, resistors, and LEDs are mostly 0603, plus a few 0805 caps. The pads for 0603 components are slightly extended for hand soldering. But this is definitly not a beginner soldering project.
 
+Dimensions: 52x26mm
+
 ![PCB](https://github.com/cross-bound/PurplePDK/assets/115736283/088f4bfd-4a24-4259-8d16-39db83137005)
